@@ -1,0 +1,5 @@
+---
+applications:
+ - name: Joseph-Davis-SafetyHM-computer-vision-app
+   random-random: true
+   memory: 128M
